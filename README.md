@@ -58,12 +58,4 @@ When contributing to this project, please ensure that your code adheres to the e
 
 The Blind Auction Program is open-source software licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the program as per the terms of the license.
 
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to contact the author:
-
-- John Doe
-- Email: john.doe@example.com
-- GitHub: [github.com/johndoe](https://github.com/johndoe)
-
 Happy auctioning!
